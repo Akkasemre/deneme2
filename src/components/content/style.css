@@ -1,0 +1,23 @@
+.content{
+    border: 3px solid hotpink;
+    position: absolute;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    top: 25%;
+    left: 25%;
+    width: 75%;
+    height: 100vh;
+    margin: 0 30px 15px 40px;
+    overflow: hidden;
+
+
+
+
+
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}

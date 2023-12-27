@@ -1,0 +1,21 @@
+.anc{
+    font-size: 6rem;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 20px;
+    transition: 2s;
+    -webkit-transition: 2s;
+    -moz-transition: 2s;
+    -ms-transition: 2s;
+    -o-transition: 2s;
+}
+
+.anc:hover{
+    color: aqua;
+    transition:all ;
+    -webkit-transition:all ;
+    -moz-transition:all ;
+    -ms-transition:all ;
+    -o-transition:all ;
+}

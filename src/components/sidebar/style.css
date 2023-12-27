@@ -1,0 +1,13 @@
+.side-bar{
+    position: absolute;
+    top: 25%;
+    width: 25%;
+    height: 100vh;
+    border: 3px solid greenyellow;
+    margin: 0 30px 15px 30px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
